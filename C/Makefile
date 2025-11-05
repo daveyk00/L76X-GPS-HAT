@@ -1,5 +1,5 @@
 #DIR_FONTS = ./Fonts
-DIR_OBJ = ./L76X_GPS
+DIR_OBJ = ./obj
 DIR_BIN = ./bin
 
 OBJ_C = $(wildcard ${DIR_OBJ}/*.c)
