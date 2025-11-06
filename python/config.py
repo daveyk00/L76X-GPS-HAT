@@ -36,6 +36,4 @@ class config(object):
     def Uart_Set_Baudrate(ser, Baudrate):
          ser.serial = serial.Serial("/dev/ttyS0",Baudrate)
 
-    
-    
-    
+
